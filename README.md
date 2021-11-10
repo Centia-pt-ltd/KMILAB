@@ -15,21 +15,28 @@
 
 - Visual Studio Framework 4.0 or above.
 
-- MS SQL 2008R2 or above.
 
 ## Tech Stack
 
 - Visual Studio 2010 or above.
 
-- MS SQL 2008R2 or above.
+
   
 ## Language
 
-- ASP.NET
+- HTML
 
 - CSS
 
 - JavaScript
+
+## Website link
+http://kmilab.com/
+
+## Screenshots
+![Screenshot (71)](https://user-images.githubusercontent.com/92842316/141061900-2b414f85-916c-489c-aacc-31077fadcdfe.png)
+
+![Screenshot (72)](https://user-images.githubusercontent.com/92842316/141061910-6f40e585-f58d-43bd-9a6c-f143a2510f83.png)
 
 
  
@@ -44,7 +51,7 @@
 
 ## License
 
-Copyright (c) [2021] [icybersecurities.com]
+Copyright (c) [2021] 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
