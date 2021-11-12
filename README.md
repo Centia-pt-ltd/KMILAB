@@ -24,11 +24,11 @@
   
 ## Language
 
+- ASP.NET
 - HTML
-
 - CSS
-
 - JavaScript
+- Bootstrap
 
 ## Website link
 http://kmilab.com/
